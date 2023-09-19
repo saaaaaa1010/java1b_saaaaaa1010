@@ -7,6 +7,7 @@ public class UseClass {
 
 		//ぽりもーふぃずむ
 		dog.nakigoe();
+		cat.nakigoe();
 
 	}
 }
